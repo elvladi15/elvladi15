@@ -1,0 +1,1 @@
+Hello, my name is Vladimir, and I am a software developer student. I like the programming world, specially web development. I know HTML, CSS and Javascript and I use React library to build user interfaces.
